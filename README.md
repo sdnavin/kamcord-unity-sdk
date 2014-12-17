@@ -1,5 +1,5 @@
-Unity-Kamcord
-=============
+kamcord-unity-sdk
+=================
 
 <h3>The documentation can be found at the <a href="https://github.com/kamcord/Unity-Kamcord/wiki">wiki</a>.</h3>
 
