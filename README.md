@@ -7,5 +7,8 @@ This Unity package is all you need to integrate Kamcord into a Unity project for
 
 You can <b><a href="https://github.com/kamcord/Unity-Kamcord/wiki/Download">download Kamcord</a></b> and an AngryBots example integration from the wiki link also.
 
+<b>Note to developers upgrading to Kamcord Android version 1.6.7</b><br/>
+It may be necessary to remove the Plugins/Android/kamcord/res/ directory before importing version 1.6.7, since we removed and changed several UI resources in this version.
+
 <b>Note to developers using Kamcord Android versions 1.6.0 - 1.6.1</b><br/>
 Due to changes in our server infrastructure, these two versions will soon be unable to properly display video feeds in the Watch and Profile tabs. Please upgrade to version 1.6.2 or higher as soon as possible. Versions prior to 1.6.0 should still display feeds correctly. We apologize for the inconvenience.
